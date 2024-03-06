@@ -1,0 +1,30 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 50px;
+    background-image: url(https://celes.club/uploads/posts/2022-11/1667398741_27-celes-club-p-kislotnie-oboi-na-telefon-pinterest-32.jpg);
+}
+
+button
+{
+    margin: 10px;
+    background-color: rgb(58, 112, 112);
+    padding: 10px 20px;
+    font-size: 60px;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+.row div
+{
+    background-image: url(https://avatars.mds.yandex.net/i?id=34142bd2a0743c24872822cc5d0e89701abba2fb-9683825-images-thumbs&n=13);
+    padding: 10px;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    float: left;
+    font-size: 60px;
+    color: white;
+}
